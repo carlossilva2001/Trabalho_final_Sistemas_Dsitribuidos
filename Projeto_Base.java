@@ -8,8 +8,8 @@ public class Projeto_Base {
         ModeloEpidemiologico virusModel = new ModeloEpidemiologico();
         model modelo = new model();
 
-        virusModel.setSusceptiveis(1000);
-        virusModel.setInfectados(10);
+        virusModel.setSusceptiveis(00);
+        virusModel.setInfectados(1010);
         virusModel.setRecuperados(0);
         virusModel.setBeta(1.18);
         virusModel.setGamma(0.1);

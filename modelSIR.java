@@ -1,4 +1,4 @@
-public class model {
+public class modelSIR {
     
         // Método para simular um passo do modelo
     public void simulateStep(double timeStep, ModeloEpidemiologico model) {
